@@ -1,23 +1,21 @@
-poc-user_addons
-===============
+Ports of Call addon collection
+==============================
 
-Ports Of Call - User Addons like ships, harbors and goods
+This project hosts Ports Of Call (PoC) user addon files, for ships, ports and goods.
 
-The initial version contains collected ships, harbors and goods from several public sources like
+It is a fork of `Bernd Gabriel's one <https://github.com/BerndGabriel/poc-user_addons>`_ .
+Purpose of having a fork is first of all to clean up the files, trace the authors and
+put together all files found around on the internet.
 
-http://www.zootierspocshipyard.de.vu/
-http://www.stickymonk.co.uk/
-http://www.pumospocship.de/
-http://poc.bigbear.de/
+Bernd let us know of his project in a `PoC's forum topic <http://www.rdkleinforum.de/viewtopic.php?p=29504#29504>`_
+in which I had pointed out to take care about publishing other people's work.
+However, in more than a year, no one has complained about the publication. In
+the hope of improving what the available files, I am now doing this work.
 
-Unfortunatelly I cannot exactly recall, which I got from where. 
-Lots of them can be downloaded from several pages.
+Of course, Bernd's invitation is valid also here: if someone does not like to
+see his/her work published here, I will remove it promptly.
 
-If one of these owners doesn't like me to offer his work here,
-please kindly drop a note at the POC forum:
+Also, if someone wants to have his work here, he/she can contact me via PM on
+PoC' s forum.
 
-http://www.rdkleinforum.de/viewtopic.php?p=29504#29504
-
-And now happy shipping ;)
-
-Bernd Gabriel
+I hope you enjoy my work and .... happy shipping!
