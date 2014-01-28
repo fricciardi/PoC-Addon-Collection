@@ -1,6 +1,6 @@
 <town>
 <index>0</index>
-<name>Lomé</name>
+<name>Lomï¿½</name>
 <land>Togo</land>
 <einwohner>750000</einwohner>
 <landwaehrung_name>XOF</landwaehrung_name>
@@ -29,5 +29,5 @@
 <anzfracht>30</anzfracht>
 <hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
 <kontinent>Africa</kontinent>
-<source_info></source_info>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 28/01/14</source_info>
 </town>

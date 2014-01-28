@@ -1,6 +1,6 @@
 <town>
 <index>000</index>
-<name>Port-aux-Français</name>
+<name>Port-aux-Franï¿½ais</name>
 <land>Kerguelen Islands - French Southern and Antarctic Lands</land>
 <einwohner>70</einwohner>
 <landwaehrung_name>EUR</landwaehrung_name>
@@ -13,7 +13,7 @@
 <SchlepperStreik>0</SchlepperStreik>
 <prozwirksam>30</prozwirksam>
 <treibstoffpreis>280</treibstoffpreis>
-<bildinfostadtnummer>Port_aux_Français-Kerguelen_islands.png</bildinfostadtnummer>
+<bildinfostadtnummer>Port_aux_Franï¿½ais-Kerguelen_islands.png</bildinfostadtnummer>
 <fracht>Passenger,75,Fish,70</fracht>
 <klippenrisiko>55</klippenrisiko>
 <piratenrisiko>0</piratenrisiko>
@@ -29,5 +29,5 @@
 <anzfracht>3</anzfracht>
 <hafentyp>q,y,g,c</hafentyp>
 <kontinent>Africa</kontinent>
-<source_info></source_info>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 28/01/14</source_info>
 </town>

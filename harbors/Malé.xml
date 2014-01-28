@@ -1,6 +1,6 @@
 <town>
 <index>107</index>
-<name>Malé</name>
+<name>Malï¿½</name>
 <land>Maldives</land>
 <einwohner>81647</einwohner>
 <landwaehrung_name>MVR</landwaehrung_name>
@@ -13,7 +13,7 @@
 <SchlepperStreik>8</SchlepperStreik>
 <prozwirksam>63</prozwirksam>
 <treibstoffpreis>140</treibstoffpreis>
-<bildinfostadtnummer>Malé_Maldives.png</bildinfostadtnummer>
+<bildinfostadtnummer>Malï¿½_Maldives.png</bildinfostadtnummer>
 <fracht>Passenger,130,Fish,180</fracht>
 <klippenrisiko>0</klippenrisiko>
 <piratenrisiko>0</piratenrisiko>
@@ -29,5 +29,5 @@
 <anzfracht>25</anzfracht>
 <hafentyp>y,g,c,a</hafentyp>
 <kontinent>Asia</kontinent>
-<source_info></source_info>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 28/01/14</source_info>
 </town>
