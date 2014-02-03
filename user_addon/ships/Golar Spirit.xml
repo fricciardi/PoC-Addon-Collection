@@ -1,0 +1,55 @@
+<ship>
+<index>000</index>
+<kategorie_typ>SPECIAL</kategorie_typ>
+<sub_typ>TANKER</sub_typ>
+<schiffsname>Golar Spirit</schiffsname>
+<baujahr>1981</baujahr>
+<sondergueter_code>2</sondergueter_code>
+<statusreq>12</statusreq>
+<delivertime>65</delivertime>
+<flat_cont_TEU>0</flat_cont_TEU>
+<TEU>0</TEU>
+<kuehlschiff_TEU>0</kuehlschiff_TEU>
+<laenge>289</laenge>
+<breite>44.61</breite>
+<sbreite>44.6</sbreite>
+<tiefgang>12.52</tiefgang>
+<maxhoehe>58.65</maxhoehe>
+<brt>106577</brt>
+<dwt>129013</dwt>
+<nrt>31974</nrt>
+<anzahl_passagiere>0</anzahl_passagiere>
+<firstclass>0</firstclass>
+<crew>36</crew>
+<betriebskosten>7050</betriebskosten>
+<max_geschw>20.6</max_geschw>
+<kw>33100</kw>
+<treibstoffverbrauch>285</treibstoffverbrauch>
+<bunkerkap>16926.3</bunkerkap>
+<preis_max>134000</preis_max>
+<bugstrahl>1</bugstrahl>
+<heckstrahl>0</heckstrahl>
+<traegheit>10</traegheit>
+<korrosionsfak>0.5</korrosionsfak>
+<umschlagzeit>1</umschlagzeit>
+<sonderschiff_frachtart>liquified gas</sonderschiff_frachtart>
+<moegliche_optionen>2</moegliche_optionen>
+<bildinforeferenz>Golar_Spirit</bildinforeferenz>
+<sonderinfos>Golar_Spirit.swf</sonderinfos>
+<flagge>Marshall Islands</flagge>
+<werft>Kawasaki Heavy Industries, Ltd.</werft>
+<flags>-</flags>
+<cars>-</cars>
+<trailers>-</trailers>
+<maxshipavailable>1</maxshipavailable>
+<rentingcostperday>0</rentingcostperday>
+<stretchcostperbed>0</stretchcostperbed>
+<smallwater>0</smallwater>
+<harbourships>0</harbourships>
+<waterline>64</waterline>
+<sndfile>machine01</sndfile>
+<sndscale>1.5</sndscale>
+<sndoffset>10</sndoffset>
+<levelcmatton>0</levelcmatton>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
+</ship>

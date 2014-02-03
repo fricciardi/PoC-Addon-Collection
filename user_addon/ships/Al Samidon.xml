@@ -1,0 +1,55 @@
+<ship>
+<index>72</index>
+<kategorie_typ>SPECIAL</kategorie_typ>
+<sub_typ>TANKER</sub_typ>
+<schiffsname>Al Samidoon</schiffsname>
+<baujahr>1992</baujahr>
+<sondergueter_code>99</sondergueter_code>
+<statusreq>12</statusreq>
+<delivertime>50</delivertime>
+<flat_cont_TEU>0</flat_cont_TEU>
+<TEU>0</TEU>
+<kuehlschiff_TEU>0</kuehlschiff_TEU>
+<laenge>322</laenge>
+<breite>56.04</breite>
+<sbreite>56.04</sbreite>
+<tiefgang>21.62</tiefgang>
+<maxhoehe>52.57</maxhoehe>
+<brt>149719</brt>
+<dwt>284889</dwt>
+<nrt>101519</nrt>
+<anzahl_passagiere>0</anzahl_passagiere>
+<firstclass>0</firstclass>
+<crew>25</crew>
+<betriebskosten>7250</betriebskosten>
+<max_geschw>14.36</max_geschw>
+<kw>18772</kw>
+<treibstoffverbrauch>159.8</treibstoffverbrauch>
+<bunkerkap>5437</bunkerkap>
+<preis_max>95000</preis_max>
+<bugstrahl>0</bugstrahl>
+<heckstrahl>0</heckstrahl>
+<traegheit>10</traegheit>
+<korrosionsfak>1.0</korrosionsfak>
+<umschlagzeit>2</umschlagzeit>
+<sonderschiff_frachtart>Crude Oil</sonderschiff_frachtart>
+<moegliche_optionen>99</moegliche_optionen>
+<bildinforeferenz>Al_Samidoon</bildinforeferenz>
+<sonderinfos>Single Hull</sonderinfos>
+<flagge>Kuwait</flagge>
+<werft>Daewoo Shipbuilding & Marine Engineering Co., Ltd.</werft>
+<flags>-</flags>
+<cars>-</cars>
+<trailers>-</trailers>
+<maxshipavailable>4</maxshipavailable>
+<rentingcostperday>0</rentingcostperday>
+<stretchcostperbed>0</stretchcostperbed>
+<smallwater>0</smallwater>
+<harbourships>0</harbourships>
+<waterline>53</waterline>
+<sndfile>machine01</sndfile>
+<sndscale>1.5</sndscale>
+<sndoffset>11</sndoffset>
+<levelcmatton>0</levelcmatton>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
+</ship>
