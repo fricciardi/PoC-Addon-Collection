@@ -1,21 +1,21 @@
 <good>
 <index>-1</index>
 <warenname>Woodchips</warenname>
-<startjahr>1920</startjahr>
-<frachtcode>0</frachtcode>
-<ertragprotag>32</ertragprotag>
-<auftrittwahrscheinlichkeit>90</auftrittwahrscheinlichkeit>
-<teutyp>500</teutyp>
-<tonperteu>18</tonperteu>
-<terminwahrscheinlichkeit>15</terminwahrscheinlichkeit>
-<korrisionsfaktor>0</korrisionsfaktor>
+<startjahr>1910</startjahr>
+<frachtcode>99</frachtcode>
+<ertragprotag>20</ertragprotag>
+<auftrittwahrscheinlichkeit>35</auftrittwahrscheinlichkeit>
+<teutyp>600</teutyp>
+<tonperteu>12</tonperteu>
+<terminwahrscheinlichkeit>3</terminwahrscheinlichkeit>
+<korrisionsfaktor>2</korrisionsfaktor>
 <bildname>woodchips</bildname>
 <containertype>0</containertype>
-<brennbar>15</brennbar>
+<brennbar>2</brennbar>
 <explosiv>0</explosiv>
 <radioaktiv>0</radioaktiv>
 <infektioes>0</infektioes>
 <handelkrit>0</handelkrit>
-<allgemeine_beschreibung>Bulk</allgemeine_beschreibung>
-<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 27/01/14</source_info>
+<allgemeine_beschreibung>-</allgemeine_beschreibung>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
 </good>
