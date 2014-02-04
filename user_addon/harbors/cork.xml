@@ -1,0 +1,33 @@
+<town>
+<index>000</index>
+<name>Cork</name>
+<land>Ireland</land>
+<einwohner>280996</einwohner>
+<landwaehrung_name>EUR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1.02</kurs_auf_dollar_bezogen>
+<x>-86</x>
+<y>-517</y>
+<einkommensteuer>40</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>0</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>110</treibstoffpreis>
+<bildinfostadtnummer>-</bildinfostadtnummer>
+<fracht>Living Animals,140,Agric. Products,150,Frozen Meat,140,Paper,180,Scrap,110,Coal,150,Cement,160,Metalware,120,Machinery,170,Electronics,210,Chemicals standard,140,Modified Microorganism,200</fracht>
+<klippenrisiko>1</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>1</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>340</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>40</zollgefahr>
+<nebel>0</nebel>
+<repda>85</repda>
+<anzfracht>12</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
+</town>

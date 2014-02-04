@@ -1,0 +1,33 @@
+<town>
+<index>000</index>
+<name>Tromsø</name>
+<land>Norway</land>
+<einwohner>63600</einwohner>
+<landwaehrung_name>NOK</landwaehrung_name>
+<kurs_auf_dollar_bezogen>6.1389</kurs_auf_dollar_bezogen>
+<x>186</x>
+<y>-690</y>
+<einkommensteuer>56</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>78</prozwirksam>
+<treibstoffpreis>155</treibstoffpreis>
+<bildinfostadtnummer>-</bildinfostadtnummer>
+<fracht>Fish,100,Crushed Stone,95,Cement,110,Marine Diesel oil (MDO),110,Frozen Meat,115,Vehicles,85,Passenger,75</fracht>
+<klippenrisiko>8</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>2</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>3000</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>24</zollgefahr>
+<nebel>5</nebel>
+<repda>0</repda>
+<anzfracht>37</anzfracht>
+<hafentyp>p,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
+</town>

@@ -1,0 +1,33 @@
+<town>
+<index>000</index>
+<name>Ho Chi Minh</name>
+<land>Vietnam</land>
+<einwohner>5620591</einwohner>
+<landwaehrung_name>THB</landwaehrung_name>
+<kurs_auf_dollar_bezogen>42.1798</kurs_auf_dollar_bezogen>
+<x>1070</x>
+<y>-100</y>
+<einkommensteuer>85</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>30</HafenArbeiterStreik>
+<SchlepperStreik>20</SchlepperStreik>
+<prozwirksam>60</prozwirksam>
+<treibstoffpreis>173</treibstoffpreis>
+<bildinfostadtnummer>-</bildinfostadtnummer>
+<fracht>Agric. Products,99,Passenger,60,NF-metals,65,Metalware,100,Textiles,50,Fish,90</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>1</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>35</seuchenrisiko>
+<schlepperkosten>4000</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>15</zollgefahr>
+<nebel>0</nebel>
+<repda>23</repda>
+<anzfracht>30</anzfracht>
+<hafentyp>p,y,g,c,d,t,a</hafentyp>
+<kontinent>Asia</kontinent>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
+</town>

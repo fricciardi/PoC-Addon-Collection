@@ -1,0 +1,33 @@
+<town>
+<index>000</index>
+<name>Newcastle</name>
+<land>Great Britain</land>
+<einwohner>812000</einwohner>
+<landwaehrung_name>GBP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1.02</kurs_auf_dollar_bezogen>
+<x>-17</x>
+<y>-550</y>
+<einkommensteuer>70</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>72</prozwirksam>
+<treibstoffpreis>125</treibstoffpreis>
+<bildinfostadtnummer>-</bildinfostadtnummer>
+<fracht>Agric. Products,110,NF-metals,150,Metalware,150,Textiles,150,Coal,210,Coal,190,Coal,170,Machinery,150,Steel Coils,150,Steel Coils,140</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>500</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>40</zollgefahr>
+<nebel>0</nebel>
+<repda>75</repda>
+<anzfracht>45</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
+</town>

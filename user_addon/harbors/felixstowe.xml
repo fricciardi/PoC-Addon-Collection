@@ -1,0 +1,33 @@
+<town>
+<index>000</index>
+<name>Felixstowe</name>
+<land>England</land>
+<einwohner>29349</einwohner>
+<landwaehrung_name>GBP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.60756</kurs_auf_dollar_bezogen>
+<x>8</x>
+<y>-518</y>
+<einkommensteuer>87</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>3</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>72</prozwirksam>
+<treibstoffpreis>125</treibstoffpreis>
+<bildinfostadtnummer>-</bildinfostadtnummer>
+<fracht>Lettuce,120,Steel Coils,170,Pallets,160,Agric. Products,150,NF-metals,140,Metalware,160,Machinery,170,Electronics,120,Plastic Prod.,140,Textiles,130,Arms,190,Vehicles,190,Cars,80,Trailers,200</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>5</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>63</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>40</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
+</town>

@@ -1,0 +1,33 @@
+<town>
+<index>000</index>
+<name>Tórshavn</name>
+<land>Faeroe Islands</land>
+<einwohner>83973</einwohner>
+<landwaehrung_name>DKK</landwaehrung_name>
+<kurs_auf_dollar_bezogen>7.09750</kurs_auf_dollar_bezogen>
+<x>-71</x>
+<y>-622</y>
+<einkommensteuer>66</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>78</prozwirksam>
+<treibstoffpreis>120</treibstoffpreis>
+<bildinfostadtnummer>-</bildinfostadtnummer>
+<fracht>Agric. Products,180,Living Animals,120,Fish,480,Frozen Meat,210,Metalware,190,Machinery,180,</fracht>
+<klippenrisiko>1</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>180</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>24</zollgefahr>
+<nebel>0</nebel>
+<repda>100</repda>
+<anzfracht>37</anzfracht>
+<hafentyp>p,y,g,c,r,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
+</town>
