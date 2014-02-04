@@ -34,7 +34,7 @@
 <umschlagzeit>1</umschlagzeit>
 <sonderschiff_frachtart>-</sonderschiff_frachtart>
 <moegliche_optionen>-</moegliche_optionen>
-<bildinforeferenz>Safmarine_Mulanje</bildinforeferenz>
+<bildinforeferenz>Safmarine>_Mulanje</bildinforeferenz>
 <sonderinfos>-</sonderinfos>
 <flagge>United Kingdom</flagge>
 <werft>Hyundai Heavy Industries Co., Ltd.</werft>
@@ -51,5 +51,5 @@
 <sndscale>1.5</sndscale>
 <sndoffset>10</sndoffset>
 <levelcmatton>0</levelcmatton>
-<source_info></source_info>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
 </ship>

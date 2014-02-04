@@ -34,7 +34,7 @@
 <umschlagzeit>2</umschlagzeit>
 <sonderschiff_frachtart>Crude Oil</sonderschiff_frachtart>
 <moegliche_optionen>99</moegliche_optionen>
-<bildinforeferenz>Formosapetro_Challanger</bildinforeferenz>
+<bildinforeferenz>Formosapetro_Challenger</bildinforeferenz>
 <sonderinfos>Double Hull</sonderinfos>
 <flagge>Liberia</flagge>
 <werft>IHI MARINE UNITED INC.</werft>
@@ -51,5 +51,5 @@
 <sndscale>1.5</sndscale>
 <sndoffset>10</sndoffset>
 <levelcmatton>0</levelcmatton>
-<source_info></source_info>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
 </ship>

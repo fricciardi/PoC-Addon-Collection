@@ -12,7 +12,7 @@
 <kuehlschiff_TEU>0</kuehlschiff_TEU>
 <laenge>343.62</laenge>
 <breite>56.06</breite>
-<sbreite>56.</sbreite>
+<sbreite>56.</sbreite
 <tiefgang>22.73</tiefgang>
 <maxhoehe>0</maxhoehe>
 <brt>150762</brt>
@@ -51,5 +51,5 @@
 <sndscale>1.5</sndscale>
 <sndoffset>10</sndoffset>
 <levelcmatton>0</levelcmatton>
-<source_info></source_info>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
 </ship>
