@@ -1,0 +1,55 @@
+<ship>
+<index>44</index>
+<kategorie_typ>CARGO</kategorie_typ>
+<sub_typ>CARGO</sub_typ>
+<schiffsname>Clan Ross</schiffsname>
+<baujahr>1956</baujahr>
+<sondergueter_code>0</sondergueter_code>
+<statusreq>2</statusreq>
+<delivertime>27</delivertime>
+<flat_cont_TEU>0</flat_cont_TEU>
+<TEU>0</TEU>
+<kuehlschiff_TEU>0</kuehlschiff_TEU>
+<laenge>153.2</laenge>
+<breite>20.0</breite>
+<sbreite>20.0</sbreite>
+<tiefgang>9</tiefgang>
+<maxhoehe>0</maxhoehe>
+<brt>7737</brt>
+<dwt>10075</dwt>
+<nrt>4500</nrt>
+<anzahl_passagiere>12</anzahl_passagiere>
+<firstclass>0</firstclass>
+<crew>0</crew>
+<betriebskosten>1050</betriebskosten>
+<max_geschw>17</max_geschw>
+<kw>7000</kw>
+<treibstoffverbrauch>220</treibstoffverbrauch>
+<bunkerkap>1800</bunkerkap>
+<preis_max>3123</preis_max>
+<bugstrahl>0</bugstrahl>
+<heckstrahl>0</heckstrahl>
+<traegheit>10</traegheit>
+<korrosionsfak>1.7</korrosionsfak>
+<umschlagzeit>1</umschlagzeit>
+<sonderschiff_frachtart>-</sonderschiff_frachtart>
+<moegliche_optionen>0</moegliche_optionen>
+<bildinforeferenz>Clan_Ross</bildinforeferenz>
+<sonderinfos>Clan_Ross.swf</sonderinfos>
+<flagge>United Kingdom</flagge>
+<werft>Greenock DY</werft>
+<flags>-</flags>
+<cars>-</cars>
+<trailers>-</trailers>
+<maxshipavailable>2</maxshipavailable>
+<rentingcostperday>0</rentingcostperday>
+<stretchcostperbed>0</stretchcostperbed>
+<smallwater>0</smallwater>
+<harbourships>0</harbourships>
+<waterline>35</waterline>
+<sndfile>smaller01</sndfile>
+<sndscale>1.5</sndscale>
+<sndoffset>9</sndoffset>
+<levelcmatton>0</levelcmatton>
+<source_info>From Stickymonk's site, files are no longer available.</source_info>
+</ship>

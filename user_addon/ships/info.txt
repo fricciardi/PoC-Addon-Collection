@@ -1,6 +1,0 @@
-
-copy the xml to the folder pocxxl/user_addons/ships/
-
-copy the side views to the folder pocxxl/user_addons/ships/sideview
-
-copy the top views to the folder pocxxl/user_addons/ships/topviews

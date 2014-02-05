@@ -23,7 +23,7 @@
 <crew>39</crew>
 <betriebskosten>4050</betriebskosten>
 <max_geschw>15</max_geschw>
-<kw>7390</kw>
+<kw>8130</kw>
 <treibstoffverbrauch>170</treibstoffverbrauch>
 <bunkerkap>1368</bunkerkap>
 <preis_max>9900</preis_max>
@@ -51,5 +51,5 @@
 <sndscale>1.5</sndscale>
 <sndoffset>8</sndoffset>
 <levelcmatton>0</levelcmatton>
-<source_info>Modified kw with data from internet. From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
 </ship>
