@@ -13,8 +13,8 @@ Currently the following addons are available:
   | New | Redrawn
     ---|:--:|:--:
     Goods | 87 | 0
-    Ports | 103 | 1
-    Ships | 1093 | 54
+    Ports | 145 | 1
+    Ships | 1094 | 99
     
 
 One of the main purpose of this project is to trace the author of each object, which
