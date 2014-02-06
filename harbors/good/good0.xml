@@ -762,21 +762,22 @@
 <index>38</index>
 <warenname>Trailers</warenname>
 <startjahr>1950</startjahr>
-<frachtcode>38</frachtcode>
-<ertragprotag>12</ertragprotag>
-<auftrittwahrscheinlichkeit>60</auftrittwahrscheinlichkeit>
-<teutyp>140</teutyp>
-<tonperteu>1</tonperteu>
-<terminwahrscheinlichkeit>2</terminwahrscheinlichkeit>
+<frachtcode>0</frachtcode>
+<ertragprotag>150</ertragprotag>
+<auftrittwahrscheinlichkeit>80</auftrittwahrscheinlichkeit>
+<teutyp>130</teutyp>
+<tonperteu>18</tonperteu>
+<terminwahrscheinlichkeit>10</terminwahrscheinlichkeit>
 <korrisionsfaktor>0</korrisionsfaktor>
-<bildname>good38</bildname>
+<bildname>Trailers</bildname>
 <containertype>21</containertype>
-<brennbar>0</brennbar>
-<explosiv>0</explosiv>
+<brennbar>5</brennbar>
+<explosiv>3</explosiv>
 <radioaktiv>0</radioaktiv>
 <infektioes>0</infektioes>
 <handelkrit>0</handelkrit>
-<allgemeine_beschreibung>Ferries only</allgemeine_beschreibung>
+<allgemeine_beschreibung>RoRo</allgemeine_beschreibung>
+<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 27/01/14</source_info>
 </good>
 <good>
 <index>39</index>
