@@ -12,7 +12,7 @@ Currently the following addons are available:
 
   | New | Redrawn
     ---|:--:|:--:
-    Goods | 87 | 0
+    Goods | 83 | 1
     Ports | 145 | 1
     Ships | 1094 | 99
     
