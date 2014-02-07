@@ -9,7 +9,7 @@
 <delivertime>62</delivertime>
 <flat_cont_TEU>0</flat_cont_TEU>
 <TEU>0</TEU>
-<kuehlschiff TEU>0</kuehlschiff TEU>
+<kuehlschiff_TEU>0</kuehlschiff_TEU>
 <laenge>331.5</laenge>
 <breite>57.26</breite>
 <sbreite>57.26</sbreite>
@@ -34,7 +34,7 @@
 <umschlagzeit>3</umschlagzeit>
 <sonderschiff_frachtart>OO-Carrier</sonderschiff_frachtart>
 <moegliche_optionen>0</moegliche_optionen>
-<bildinforeferenz>BW_Fjord</bildinforeferenz>
+<bildinforeferenz>bw_fjord</bildinforeferenz>
 <sonderinfos>0</sonderinfos>
 <flagge>Panama</flagge>
 <werft>Ishikawajima Do Brasil Estaleiros S.A.</werft>

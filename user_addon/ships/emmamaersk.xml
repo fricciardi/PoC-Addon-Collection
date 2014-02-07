@@ -2,7 +2,7 @@
 <index>000</index>
 <kategorie_typ>SPECIAL</kategorie_typ>
 <sub_typ>TANKER</sub_typ>
-<schiffsname>Emma Maersk</schiffsname>
+<schiffsname>Emma Maersk 1964</schiffsname>
 <baujahr>1964</baujahr>
 <sondergueter_code>99</sondergueter_code>
 <statusreq>7</statusreq>
@@ -34,10 +34,10 @@
 <umschlagzeit>1</umschlagzeit>
 <sonderschiff_frachtart>-</sonderschiff_frachtart>
 <moegliche_optionen>99</moegliche_optionen>
-<bildinforeferenz>emmamaersk</bildinforeferenz>
+<bildinforeferenz>emma_maersk_1964</bildinforeferenz>
 <sonderinfos>-</sonderinfos>
 <flagge>Denmark</flagge>
-<werft>Kockums AB shipyard, Malmö.</werft>
+<werft>Kockums AB shipyard, Malmï¿½.</werft>
 <flags>-</flags>
 <cars>-</cars>
 <trailers>-</trailers>

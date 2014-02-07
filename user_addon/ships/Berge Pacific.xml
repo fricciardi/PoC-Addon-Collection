@@ -9,7 +9,7 @@
 <delivertime>54</delivertime>
 <flat_cont_TEU>0</flat_cont_TEU>
 <TEU>0</TEU>
-<kuehlschiff TEU>0</kuehlschiff TEU>
+<kuehlschiff_TEU>0</kuehlschiff_TEU>
 <laenge>315</laenge>
 <breite>55.73</breite>
 <sbreite>55.0</sbreite>
@@ -34,7 +34,7 @@
 <umschlagzeit>3</umschlagzeit>
 <sonderschiff_frachtart>-</sonderschiff_frachtart>
 <moegliche_optionen>2</moegliche_optionen>
-<bildinforeferenz>Berge_Pacific</bildinforeferenz>
+<bildinforeferenz>berge_pacific</bildinforeferenz>
 <sonderinfos>-</sonderinfos>
 <flagge>Norway</flagge>
 <werft>Samsung Heavy Industries Co. Ltd.</werft>
