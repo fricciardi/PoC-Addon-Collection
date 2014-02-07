@@ -2,8 +2,8 @@
 <index>000</index>
 <kategorie_typ>SPECIAL</kategorie_typ>
 <sub_typ>CARGO</sub_typ>
-<schiffsname>Baco-Liner 3</schiffsname>
-<baujahr>1984.6</baujahr>
+<schiffsname>BaCo Liner</schiffsname>
+<baujahr>1979</baujahr>
 <sondergueter_code>10</sondergueter_code>
 <statusreq>10</statusreq>
 <delivertime>60</delivertime>
@@ -34,7 +34,7 @@
 <umschlagzeit>1</umschlagzeit>
 <sonderschiff_frachtart>Barge-Carrier</sonderschiff_frachtart>
 <moegliche_optionen>10</moegliche_optionen>
-<bildinforeferenz>Baco-Liner_3</bildinforeferenz>
+<bildinforeferenz>baco_liner</bildinforeferenz>
 <sonderinfos>-</sonderinfos>
 <flagge>Liberia</flagge>
 <werft>Thyssen Nordseewerke GmbH</werft>
@@ -51,5 +51,5 @@
 <sndscale>1.5</sndscale>
 <sndoffset>10</sndoffset>
 <levelcmatton>0</levelcmatton>
-<source_info>From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
+<source_info>Merged with three BaCo liners from Stickymonk. From Zootier's site (http://www.zootierspocshipyard.de.vu/) as of 31/01/14</source_info>
 </ship>
