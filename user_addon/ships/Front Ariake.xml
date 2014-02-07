@@ -2,7 +2,7 @@
 <index>000</index>
 <kategorie_typ>SPECIAL</kategorie_typ>
 <sub_typ>TANKER</sub_typ>
-<schiffsname>Ariake</schiffsname>
+<schiffsname>Front Ariake</schiffsname>
 <baujahr>2001.1</baujahr>
 <sondergueter_code>99</sondergueter_code>
 <statusreq>18</statusreq>
@@ -34,7 +34,8 @@
 <umschlagzeit>2</umschlagzeit>
 <sonderschiff_frachtart>Crude Oil</sonderschiff_frachtart>
 <moegliche_optionen>99</moegliche_optionen>
-<bildinforeferenz>Ariake_t</bildinforeferenz>
+<bildinforeferenz>front_ariake
+</bildinforeferenz>
 <sonderinfos>Double Hull</sonderinfos>
 <flagge>Bahamas</flagge>
 <werft>Hitachi Zosen Corp., Ariake Yard</werft>
