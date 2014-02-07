@@ -22,7 +22,11 @@ I solved adding an additional element in PoC's XML files. Of course, if anyone d
 like having his/her files here I will remove them promptly. Just send me a PM in
 [PoC forum](http://www.rdkleinforum.de) (you have to be registered in order to do so).
 
-The main sources of my collection are:
+To use these files, just download [them zipped](https://github.com/fricciardi/PoC-Addon-Collection/archive/master.zip)
+and extract the zip file in PoC directory. Beware that doing so you may overwrite either
+a modified version of the original PoC files or other addons you already downloaded. Please,
+do  backup of your files prior to unzipping my ones. In any case, for safety, I have
+included PoC original file in my distribution.
 
 * [Zootier's PoC Shipyard](http://www.zootierspocshipyard.de.vu/).
 * Stickymonk's addons, which are no longer available; I downloaded Stickymonk's files a few years ago and I am
