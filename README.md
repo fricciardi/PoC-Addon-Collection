@@ -10,11 +10,11 @@ this project is a fork of Bernd's one.
 
 Currently the following addons are available:
 
-  | New | Redrawn
-    ---|:--:|:--:
-    Goods | 78 | 1
-    Ports | 143 | 1
-    Ships | 1084 | 99
+| | New | Redrawn|
+|    ---|:--:|:--:|
+|    Goods | 78 | 1 |
+|    Ports | 143 | 1 |
+|    Ships | 1084 | 99 |
     
 
 One of the main purpose of this project is to trace the author of each object, which
