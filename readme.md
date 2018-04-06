@@ -14,23 +14,21 @@ Currently the following addons are available:
 | --- | :---: | :---: | :---: |
 | Goods | 83 | 0 | 83 |
 | Harbours | 145 | 0 | 145 |
-| Ships | 500 | 0 | 500 |
+| Ships | 549 | 49 | 500 |
 
-
-
-
-One of the main purpose of this project is to trace the author of each object, which
-I solved adding an additional element in PoC's XML files. Of course, if anyone does not
-like having his/her files here I will remove them promptly. Just send me a PM in
-[PoC forum](http://www.rdkleinforum.de) (you have to be registered in order to do so).
 
 The sources of my collection are:
 
-* The original PoC objects
-* Verfy few addons in the original distribution
+* The original PoC objects.
+* Verfy few addons in the original distribution.
 * Stickymonk's addons, which are no longer available; I downloaded Stickymonk's files a few years ago and I am currently using my personal copy.
 * [Zootier's PoC Shipyard](http://www.zootierspocshipyard.de.vu/).
 * A few BigBear goods that I added as a test (more objects from [BigBear's site](http://poc.bigbear.de/)) coming in the future.
 
 
+Of course, if anyone does not
+like having his/her files here I will remove them promptly. Just send me a PM in
+[PoC forum](http://www.rdkleinforum.de) (you have to be registered in order to do so).
+
 I hope you enjoy my work and .... happy shipping!
+
