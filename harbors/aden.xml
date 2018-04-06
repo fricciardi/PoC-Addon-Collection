@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Aden</name>
+<land>Yemen</land>
+<einwohner>586400</einwohner>
+<landwaehrung_name>YER</landwaehrung_name>
+<kurs_auf_dollar_bezogen>195.700</kurs_auf_dollar_bezogen>
+<x>450</x>
+<y>-128</y>
+<einkommensteuer>44</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>2</HafenArbeiterStreik>
+<SchlepperStreik>2</SchlepperStreik>
+<prozwirksam>39</prozwirksam>
+<treibstoffpreis>140</treibstoffpreis>
+<bildinfostadtnummer>Aden.png</bildinfostadtnummer>
+<fracht>Chemicals liquid,100,Marine Gasoil (MGO),90,Marine Diesel oil (MDO),90,Gasoline,95,Liquefied natural gas,100,Crushed Stone,45,Coffee,75,Tobacco,80</fracht>
+<klippenrisiko>4</klippenrisiko>
+<piratenrisiko>7</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>2100</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>15</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>10</zollgefahr>
+<nebel>2</nebel>
+<repda>-</repda>
+<anzfracht>18</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

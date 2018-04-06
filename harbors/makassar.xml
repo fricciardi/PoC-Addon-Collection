@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Makassar</name>
+<land>Indonesia</land>
+<einwohner>1321832 </einwohner>
+<landwaehrung_name>IDR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>8871.45</kurs_auf_dollar_bezogen>
+<x>1193</x>
+<y>58</y>
+<einkommensteuer>70</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>15</SchlepperStreik>
+<prozwirksam>75</prozwirksam>
+<treibstoffpreis>150</treibstoffpreis>
+<bildinfostadtnummer>Makassar.png</bildinfostadtnummer>
+<fracht>Passenger,80,Fish,100,Agric. Products,70,Wood,130,Coffee,90,Rubber,100,Cement,90,Spice,100</fracht>
+<klippenrisiko>3</klippenrisiko>
+<piratenrisiko>10</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>3300</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>15</zollgefahr>
+<nebel>0</nebel>
+<repda>88</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,b,d,t,a</hafentyp>
+<kontinent>Asia</kontinent>
+</town>

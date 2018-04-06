@@ -1,0 +1,32 @@
+<town>
+<index>000</index>
+<name>Timaru</name>
+<land>New Zealand</land>
+<einwohner>27200</einwohner>
+<landwaehrung_name>NZD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>2.164</kurs_auf_dollar_bezogen>
+<x>1735</x>
+<y>425</y>
+<einkommensteuer>50</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>201</treibstoffpreis>
+<bildinfostadtnummer>Timaru.png</bildinfostadtnummer>
+<fracht>Agric. Products,110,Fish,110,Machinery,50,Cattle,110,Asphalt,75,Fertiliser,90,Frozen Meat,130,Grain,100,Liquid Fertilisers,80,Molasses,110,Vegetable Oil,70,Woodchips,100,Sheep,130,Wool,125,Pipes,90,Wood,118,Foods,110</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>4000</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>32</zollgefahr>
+<nebel>0</nebel>
+<repda>-</repda>
+<anzfracht>18</anzfracht>
+<hafentyp>p,q,y,g,c,b,d,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

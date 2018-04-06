@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Lae</name>
+<land>Papua New Guinea</land>
+<einwohner>76254</einwohner>
+<landwaehrung_name>PGK</landwaehrung_name>
+<kurs_auf_dollar_bezogen>2.98365</kurs_auf_dollar_bezogen>
+<x>1468</x>
+<y>65</y>
+<einkommensteuer>40</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>72</prozwirksam>
+<treibstoffpreis>170</treibstoffpreis>
+<bildinfostadtnummer>Lae.png</bildinfostadtnummer>
+<fracht>Copper Concentrate,130,Copra,120,Coffee,100,Crude Oil,100,Cacao,90,Tea,90,Gold,70,Wood,90,Shrimps,90,Palm Oil,100,Woodchips,110,Pressure Treated Wood,100</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>5</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>3100</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>35</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>7</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

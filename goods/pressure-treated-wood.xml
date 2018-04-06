@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Pressure Treated Wood</warenname>
+<startjahr>1950</startjahr>
+<frachtcode>88</frachtcode>
+<ertragprotag>10</ertragprotag>
+<auftrittwahrscheinlichkeit>100</auftrittwahrscheinlichkeit>
+<teutyp>500</teutyp>
+<tonperteu>15</tonperteu>
+<terminwahrscheinlichkeit>2</terminwahrscheinlichkeit>
+<korrisionsfaktor>0</korrisionsfaktor>
+<bildname>pressure_treated_wood</bildname>
+<containertype>0</containertype>
+<brennbar>6</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>0</handelkrit>
+<allgemeine_beschreibung>-</allgemeine_beschreibung>
+</good>

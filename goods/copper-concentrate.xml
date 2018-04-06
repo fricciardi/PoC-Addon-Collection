@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Copper Concentrate</warenname>
+<startjahr>1940</startjahr>
+<frachtcode>0</frachtcode>
+<ertragprotag>29</ertragprotag>
+<auftrittwahrscheinlichkeit>78</auftrittwahrscheinlichkeit>
+<teutyp>600</teutyp>
+<tonperteu>25</tonperteu>
+<terminwahrscheinlichkeit>0</terminwahrscheinlichkeit>
+<korrisionsfaktor>1</korrisionsfaktor>
+<bildname>copper_concentrate</bildname>
+<containertype>0</containertype>
+<brennbar>0</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>0</handelkrit>
+<allgemeine_beschreibung>Bulk</allgemeine_beschreibung>
+</good>

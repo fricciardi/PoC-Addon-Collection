@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Cattle</warenname>
+<startjahr>1950</startjahr>
+<frachtcode>0</frachtcode>
+<ertragprotag>85</ertragprotag>
+<auftrittwahrscheinlichkeit>75</auftrittwahrscheinlichkeit>
+<teutyp>300</teutyp>
+<tonperteu>20</tonperteu>
+<terminwahrscheinlichkeit>45</terminwahrscheinlichkeit>
+<korrisionsfaktor>2</korrisionsfaktor>
+<bildname>cattle</bildname>
+<containertype>4</containertype>
+<brennbar>0</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>10</handelkrit>
+<allgemeine_beschreibung>20 cattle per teu</allgemeine_beschreibung>
+</good>

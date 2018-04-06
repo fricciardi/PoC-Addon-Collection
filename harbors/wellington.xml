@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Wellington</name>
+<land>New Zealand</land>
+<einwohner>402000</einwohner>
+<landwaehrung_name>NZD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>2.164</kurs_auf_dollar_bezogen>
+<x>1754</x>
+<y>413</y>
+<einkommensteuer>50</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>78</prozwirksam>
+<treibstoffpreis>201</treibstoffpreis>
+<bildinfostadtnummer>Wellington.png</bildinfostadtnummer>
+<fracht>Passenger,90,Fish,40,Wood,90,Tropical Fruits,80,Trailers,80,Sheep,80,Wool,80,Frozen Meat,80</fracht>
+<klippenrisiko>1</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>4620</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>32</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>15</anzfracht>
+<hafentyp>p,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

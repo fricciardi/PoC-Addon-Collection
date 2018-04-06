@@ -1,0 +1,32 @@
+<town>
+<index>000</index>
+<name>Dili</name>
+<land>Timor Leste (East Timor)</land>
+<einwohner>59069</einwohner>
+<landwaehrung_name>USD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1</kurs_auf_dollar_bezogen>
+<x>1255</x>
+<y>086</y>
+<einkommensteuer>50</einkommensteuer>
+<kriegsrisiko>15</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>80</prozwirksam>
+<treibstoffpreis>182</treibstoffpreis>
+<bildinfostadtnummer>Dili.png</bildinfostadtnummer>
+<fracht>Passenger,50,Fish,100,Furniture,80,Wood,118,Agric. Products,110,Liquefied natural gas,120,Liquefied Petroleum gases,110,Crude Oil,105,Coffee,115</fracht>
+<klippenrisiko>2</klippenrisiko>
+<piratenrisiko>2</piratenrisiko>
+<kollisionsrisiko>10</kollisionsrisiko>
+<seuchenrisiko>2</seuchenrisiko>
+<schlepperkosten>3800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>1</schmuggelart>
+<zollgefahr>20</zollgefahr>
+<nebel>8</nebel>
+<repda>0</repda>
+<anzfracht>20</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

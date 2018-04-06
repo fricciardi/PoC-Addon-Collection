@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Itaqui</name>
+<land>Brazil</land>
+<einwohner>42842</einwohner>
+<landwaehrung_name>BRL</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1.92</kurs_auf_dollar_bezogen>
+<x>-442</x>
+<y>24</y>
+<einkommensteuer>50</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>15</HafenArbeiterStreik>
+<SchlepperStreik>20</SchlepperStreik>
+<prozwirksam>80</prozwirksam>
+<treibstoffpreis>158</treibstoffpreis>
+<bildinfostadtnummer>Itaqui.png</bildinfostadtnummer>
+<fracht>Agric. Products,80,Iron Ore,130</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>5</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>3800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>40</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>15</anzfracht>
+<hafentyp>y,g,b,t,a</hafentyp>
+<kontinent>South America</kontinent>
+</town>

@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Barranquilla</name>
+<land>Colombia</land>
+<einwohner>1765400</einwohner>
+<landwaehrung_name>COP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>2393.08</kurs_auf_dollar_bezogen>
+<x>-744</x>
+<y>-106</y>
+<einkommensteuer>50</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>2</HafenArbeiterStreik>
+<SchlepperStreik>2</SchlepperStreik>
+<prozwirksam>65</prozwirksam>
+<treibstoffpreis>145</treibstoffpreis>
+<bildinfostadtnummer>Barranquilla.png</bildinfostadtnummer>
+<fracht>Agric. Products,80,Beer,105,Cement,95,Chemicals liquid,90,NF-metals,75,Metalware,60,Textiles,100</fracht>
+<klippenrisiko>2</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>1900</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>7</zollgefahr>
+<nebel>0</nebel>
+<repda>100</repda>
+<anzfracht>35</anzfracht>
+<hafentyp>p,y,g,c,r,d,b,t,a</hafentyp>
+<kontinent>South America</kontinent>
+</town>

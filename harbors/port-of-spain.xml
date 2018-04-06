@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Port of Spain</name>
+<land>Trinidad and Tobago</land>
+<einwohner>269923</einwohner>
+<landwaehrung_name>TTD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>6.2505</kurs_auf_dollar_bezogen>
+<x>-613</x>
+<y>-104</y>
+<einkommensteuer>35</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>15</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>178</treibstoffpreis>
+<bildinfostadtnummer>Port_of_Spain.png</bildinfostadtnummer>
+<fracht>Passenger,100,Sugar,90,Tropical Fruits,70,Cacao,90,Bauxite,100,Iron Ore,90,Liquefied natural gas,120,Asphalt,120</fracht>
+<klippenrisiko>7</klippenrisiko>
+<piratenrisiko>1</piratenrisiko>
+<kollisionsrisiko>2</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>3500</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>4</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>12</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>28</anzfracht>
+<hafentyp>p,q,y,g,c,b,t,a</hafentyp>
+<kontinent>South America</kontinent>
+</town>

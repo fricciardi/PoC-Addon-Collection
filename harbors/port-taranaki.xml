@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Port Taranaki</name>
+<land>New Zealand</land>
+<einwohner>52000</einwohner>
+<landwaehrung_name>NZD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>2.164</kurs_auf_dollar_bezogen>
+<x>1741</x>
+<y>391</y>
+<einkommensteuer>50</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>85</prozwirksam>
+<treibstoffpreis>201</treibstoffpreis>
+<bildinfostadtnummer>Port_Taranaki.png</bildinfostadtnummer>
+<fracht>Agric. Products,110,Liquefied natural gas,100,Liquefied Petroleum gases,80,Chemicals standard,80,Chemicals liquid,80,Coal,80,Grain,80,Molasses,80,Cement,80</fracht>
+<klippenrisiko>1</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>4000</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>32</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>16</anzfracht>
+<hafentyp>p,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

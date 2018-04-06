@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Animal Feed</warenname>
+<startjahr>1910</startjahr>
+<frachtcode>97</frachtcode>
+<ertragprotag>24</ertragprotag>
+<auftrittwahrscheinlichkeit>65</auftrittwahrscheinlichkeit>
+<teutyp>500</teutyp>
+<tonperteu>12</tonperteu>
+<terminwahrscheinlichkeit>3</terminwahrscheinlichkeit>
+<korrisionsfaktor>2</korrisionsfaktor>
+<bildname>animal_feed</bildname>
+<containertype>0</containertype>
+<brennbar>0</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>0</handelkrit>
+<allgemeine_beschreibung>-</allgemeine_beschreibung>
+</good>

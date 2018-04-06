@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Malabo</name>
+<land>Equatorial Guinea</land>
+<einwohner>50000</einwohner>
+<landwaehrung_name>XAF</landwaehrung_name>
+<kurs_auf_dollar_bezogen>497.314</kurs_auf_dollar_bezogen>
+<x>87</x>
+<y>-35</y>
+<einkommensteuer>58</einkommensteuer>
+<kriegsrisiko>1</kriegsrisiko>
+<HafenArbeiterStreik>15</HafenArbeiterStreik>
+<SchlepperStreik>13</SchlepperStreik>
+<prozwirksam>65</prozwirksam>
+<treibstoffpreis>168</treibstoffpreis>
+<bildinfostadtnummer>Malabo.png</bildinfostadtnummer>
+<fracht>Crude Oil,120,Liquefied Natural Gas,90,Wood,120,Cacao,80,Coffee,80</fracht>
+<klippenrisiko>5</klippenrisiko>
+<piratenrisiko>5</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>2800</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>20</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>5</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>15</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

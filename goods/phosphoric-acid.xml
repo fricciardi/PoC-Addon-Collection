@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Phosphoric Acid</warenname>
+<startjahr>1960</startjahr>
+<frachtcode>96</frachtcode>
+<ertragprotag>105</ertragprotag>
+<auftrittwahrscheinlichkeit>105</auftrittwahrscheinlichkeit>
+<teutyp>100</teutyp>
+<tonperteu>10</tonperteu>
+<terminwahrscheinlichkeit>3</terminwahrscheinlichkeit>
+<korrisionsfaktor>6</korrisionsfaktor>
+<bildname>phosphoric_acid</bildname>
+<containertype>5</containertype>
+<brennbar>1</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>0</handelkrit>
+<allgemeine_beschreibung>Tankers only</allgemeine_beschreibung>
+</good>

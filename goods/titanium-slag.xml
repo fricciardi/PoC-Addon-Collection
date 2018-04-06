@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Titanium Slag</warenname>
+<startjahr>1930</startjahr>
+<frachtcode>98</frachtcode>
+<ertragprotag>35</ertragprotag>
+<auftrittwahrscheinlichkeit>55</auftrittwahrscheinlichkeit>
+<teutyp>100</teutyp>
+<tonperteu>18</tonperteu>
+<terminwahrscheinlichkeit>1</terminwahrscheinlichkeit>
+<korrisionsfaktor>2</korrisionsfaktor>
+<bildname>titanium_slag</bildname>
+<containertype>0</containertype>
+<brennbar>0</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>0</handelkrit>
+<allgemeine_beschreibung>-</allgemeine_beschreibung>
+</good>

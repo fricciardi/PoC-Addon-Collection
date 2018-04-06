@@ -1,0 +1,32 @@
+<town>
+<index>199</index>
+<name>Las Palmas de Gran Canaria</name>
+<land>Spain</land>
+<einwohner>376953</einwohner>
+<landwaehrung_name>EUR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.7535</kurs_auf_dollar_bezogen>
+<x>-153</x>
+<y>-281</y>
+<einkommensteuer>60</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>15</SchlepperStreik>
+<prozwirksam>80</prozwirksam>
+<treibstoffpreis>160</treibstoffpreis>
+<bildinfostadtnummer>las_palmas.png</bildinfostadtnummer>
+<fracht>Passenger,130,Bananas,90,Fish,80,Tropical Fruits,80,Trailers,100,Trucks,100,Agric. Products,90,Wine,80</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>10</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>3600</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>5</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>60</zollgefahr>
+<nebel>0</nebel>
+<repda>85</repda>
+<anzfracht>35</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

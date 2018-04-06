@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Santa Cruz de Tenerife</name>
+<land>Spain</land>
+<einwohner>221.567</einwohner>
+<landwaehrung_name>EUR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.7535</kurs_auf_dollar_bezogen>
+<x>-161</x>
+<y>-283</y>
+<einkommensteuer>60</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>15</SchlepperStreik>
+<prozwirksam>80</prozwirksam>
+<treibstoffpreis>153</treibstoffpreis>
+<bildinfostadtnummer>Santa_Cruz.png</bildinfostadtnummer>
+<fracht>Passenger,130,Bananas,110,Fish,100,Flowers,70,Agric. Products,90,Tobacco,70,Wine,80,Trailers,100,Cars,80,Gasoline,80,Marine Diesel Oil (MDO),80</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>10</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>3600</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>5</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>60</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>35</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

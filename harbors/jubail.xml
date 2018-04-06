@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Jubail</name>
+<land>Saudi-Arabien</land>
+<einwohner>222544</einwohner>
+<landwaehrung_name>SR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>3.75</kurs_auf_dollar_bezogen>
+<x>495</x>
+<y>-270</y>
+<einkommensteuer>78</einkommensteuer>
+<kriegsrisiko>10</kriegsrisiko>
+<HafenArbeiterStreik>3</HafenArbeiterStreik>
+<SchlepperStreik>5</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>138</treibstoffpreis>
+<bildinfostadtnummer>Jubail.png</bildinfostadtnummer>
+<fracht>Agric. Products,110,Crude Oil,110,Gasoline,110,Jet (A1) Fuel,100,Marine Diesel oil (MDO),100,Marine Gasoil (MGO),100,Chemicals liquid,110,Chemicals gases,100,Chemicals standard,100,Liquefied natural gas,110,Liquefied Petroleum gases,110</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>1</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>4500</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>28</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>15</zollgefahr>
+<nebel>3</nebel>
+<repda>0</repda>
+<anzfracht>35</anzfracht>
+<hafentyp>p,q,y,g,c,b,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

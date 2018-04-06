@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Aqaba</name>
+<land>Jordan</land>
+<einwohner>70000</einwohner>
+<landwaehrung_name>JOD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.709</kurs_auf_dollar_bezogen>
+<x>350</x>
+<y>-295</y>
+<einkommensteuer>35</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>0</HafenArbeiterStreik>
+<SchlepperStreik>0</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>160</treibstoffpreis>
+<bildinfostadtnummer>Aqaba.png</bildinfostadtnummer>
+<fracht>Passenger,100,Textiles,90,Fertiliser,100,Medicine,90,Agric. Products,100,Phosphates,100</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4900</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>70</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>15</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

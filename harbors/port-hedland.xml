@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Port Hedland</name>
+<land>Australia</land>
+<einwohner>12697</einwohner>
+<landwaehrung_name>AUD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1.53356</kurs_auf_dollar_bezogen>
+<x>1184</x>
+<y>202</y>
+<einkommensteuer>78</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>89</prozwirksam>
+<treibstoffpreis>155</treibstoffpreis>
+<bildinfostadtnummer>Port_Hedland.png</bildinfostadtnummer>
+<fracht>Iron Ore,130,Liquefied Natural Gas,120,Salt,120,Manganese,120,Sheep,100,Cattle,100</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4500</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>36</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>38</anzfracht>
+<hafentyp>p,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

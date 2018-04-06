@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Sea Dredged Aggregates</warenname>
+<startjahr>1950</startjahr>
+<frachtcode>87</frachtcode>
+<ertragprotag>35</ertragprotag>
+<auftrittwahrscheinlichkeit>45</auftrittwahrscheinlichkeit>
+<teutyp>700</teutyp>
+<tonperteu>20</tonperteu>
+<terminwahrscheinlichkeit>1</terminwahrscheinlichkeit>
+<korrisionsfaktor>2</korrisionsfaktor>
+<bildname>sea_dredged_aggregates</bildname>
+<containertype>0</containertype>
+<brennbar>1</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>0</handelkrit>
+<allgemeine_beschreibung>-</allgemeine_beschreibung>
+</good>

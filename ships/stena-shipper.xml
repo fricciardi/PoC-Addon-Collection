@@ -1,0 +1,54 @@
+<ship>
+<index>000</index>
+<kategorie_typ>SPECIAL</kategorie_typ>
+<sub_typ>FERRY</sub_typ>
+<schiffsname>Stena Shipper</schiffsname>
+<baujahr>1979</baujahr>
+<sondergueter_code>10</sondergueter_code>
+<statusreq>4</statusreq>
+<delivertime>37</delivertime>
+<flat_cont_TEU>0</flat_cont_TEU>
+<TEU>0</TEU>
+<kuehlschiff_TEU>0</kuehlschiff_TEU>
+<laenge>168.76</laenge>
+<breite>20.22</breite>
+<sbreite>20.22</sbreite>
+<tiefgang>6.46</tiefgang>
+<maxhoehe>0</maxhoehe>
+<brt>12337</brt>
+<dwt>8765</dwt>
+<nrt>3701</nrt>
+<anzahl_passagiere>12</anzahl_passagiere>
+<firstclass>0</firstclass>
+<crew>0</crew>
+<betriebskosten>448</betriebskosten>
+<max_geschw>18</max_geschw>
+<kw>11120</kw>
+<treibstoffverbrauch>130</treibstoffverbrauch>
+<bunkerkap>1308</bunkerkap>
+<preis_max>920</preis_max>
+<bugstrahl>1</bugstrahl>
+<heckstrahl>1</heckstrahl>
+<traegheit>10</traegheit>
+<korrosionsfak>0.7</korrosionsfak>
+<umschlagzeit>1</umschlagzeit>
+<sonderschiff_frachtart>vehicles only</sonderschiff_frachtart>
+<moegliche_optionen>10</moegliche_optionen>
+<bildinforeferenz>stena_shipper</bildinforeferenz>
+<sonderinfos>-</sonderinfos>
+<flagge>United Kingdom</flagge>
+<werft>Jos. L. Meyer / Papenburg</werft>
+<flags>-</flags>
+<cars>-</cars>
+<trailers>160</trailers>
+<maxshipavailable>2</maxshipavailable>
+<rentingcostperday>0</rentingcostperday>
+<stretchcostperbed>0</stretchcostperbed>
+<smallwater>0</smallwater>
+<harbourships>0</harbourships>
+<waterline>45</waterline>
+<sndfile>machine01</sndfile>
+<sndscale>1.4</sndscale>
+<sndoffset>10</sndoffset>
+<levelcmatton>0</levelcmatton>
+</ship>

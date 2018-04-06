@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Shrimps</warenname>
+<startjahr>1920</startjahr>
+<frachtcode>0</frachtcode>
+<ertragprotag>37</ertragprotag>
+<auftrittwahrscheinlichkeit>80</auftrittwahrscheinlichkeit>
+<teutyp>300</teutyp>
+<tonperteu>12</tonperteu>
+<terminwahrscheinlichkeit>60</terminwahrscheinlichkeit>
+<korrisionsfaktor>0</korrisionsfaktor>
+<bildname>shrimps</bildname>
+<containertype>1</containertype>
+<brennbar>0</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>5</handelkrit>
+<allgemeine_beschreibung>Reefer only</allgemeine_beschreibung>
+</good>

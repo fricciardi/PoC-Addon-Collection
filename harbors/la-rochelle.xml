@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>La Rochelle</name>
+<land>France</land>
+<einwohner>136051</einwohner>
+<landwaehrung_name>EUR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1.02</kurs_auf_dollar_bezogen>
+<x>-12</x>
+<y>-462</y>
+<einkommensteuer>100</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>2</HafenArbeiterStreik>
+<SchlepperStreik>2</SchlepperStreik>
+<prozwirksam>75</prozwirksam>
+<treibstoffpreis>110</treibstoffpreis>
+<bildinfostadtnummer>La_Rochelle.png</bildinfostadtnummer>
+<fracht>Metalware,100,Machinery,110,Chemicals standard,104,Electronics,120,Furniture,100,Vehicles,130,Plastic Prod.,100,Textiles,100,Cars,80,Arms,130,Trailers,85</fracht>
+<klippenrisiko>2</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>1</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4500</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>44</zollgefahr>
+<nebel>1</nebel>
+<repda>90</repda>
+<anzfracht>24</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+</town>

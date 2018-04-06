@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Saldanha</name>
+<land>South Africa</land>
+<einwohner>3244</einwohner>
+<landwaehrung_name>ZAR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>5.99850</kurs_auf_dollar_bezogen>
+<x>176</x>
+<y>331</y>
+<einkommensteuer>35</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>5</SchlepperStreik>
+<prozwirksam>85</prozwirksam>
+<treibstoffpreis>145</treibstoffpreis>
+<bildinfostadtnummer>Saldanha.png</bildinfostadtnummer>
+<fracht>Iron Ore,130,Steel Coils,100,Copper Concentrate,100,Tropical Fruits,80</fracht>
+<klippenrisiko>3</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>10</seuchenrisiko>
+<schlepperkosten>2900</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>15</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>18</anzfracht>
+<hafentyp>y,g,r,b,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

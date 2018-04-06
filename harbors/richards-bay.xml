@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Richards Bay</name>
+<land>South Africa</land>
+<einwohner>50000</einwohner>
+<landwaehrung_name>ZAR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>5.99850</kurs_auf_dollar_bezogen>
+<x>321</x>
+<y>285</y>
+<einkommensteuer>35</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>3</SchlepperStreik>
+<prozwirksam>75</prozwirksam>
+<treibstoffpreis>140</treibstoffpreis>
+<bildinfostadtnummer>Richards_Bay.png</bildinfostadtnummer>
+<fracht>Coal,130,Aluminium,110,Fertiliser,100,Iron Ore,120,Phosphoric Acid,100,Paper,100,Woodchips,100,Passenger,70</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>10</seuchenrisiko>
+<schlepperkosten>2500</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>15</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>32</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

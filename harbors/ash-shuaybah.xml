@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Ash Shuaybah</name>
+<land>Kuwait</land>
+<einwohner>3100000</einwohner>
+<landwaehrung_name>KWD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.29201</kurs_auf_dollar_bezogen>
+<x>482</x>
+<y>-290</y>
+<einkommensteuer>30</einkommensteuer>
+<kriegsrisiko>15</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>134</treibstoffpreis>
+<bildinfostadtnummer>Ash_Shuaybah.png</bildinfostadtnummer>
+<fracht>Fish,90,Crude Oil,120,Gasoline,110,Jet (A1) Fuel,100,Marine Diesel oil (MDO),100,Marine Gasoil (MGO),100,Chemicals liquid,120,Chemicals gases,110,Chemicals standard,100,Passenger,80,Fertiliser,100,Petroleum Coke,100,Cement,100</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>5</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>3800</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>35</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>10</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,b,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

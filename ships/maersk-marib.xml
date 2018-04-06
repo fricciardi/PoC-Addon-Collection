@@ -1,0 +1,54 @@
+<ship>
+<index>000</index>
+<kategorie_typ>SPECIAL</kategorie_typ>
+<sub_typ>TANKER</sub_typ>
+<schiffsname>Maersk Marib</schiffsname>
+<baujahr>2008</baujahr>
+<sondergueter_code>99</sondergueter_code>
+<statusreq>11</statusreq>
+<delivertime>65</delivertime>
+<flat_cont_TEU>0</flat_cont_TEU>
+<TEU>0</TEU>
+<kuehlschiff_TEU>0</kuehlschiff_TEU>
+<laenge>285</laenge>
+<breite>43.4</breite>
+<sbreite>43.4</sbreite>
+<tiefgang>12.1</tiefgang>
+<maxhoehe>-</maxhoehe>
+<brt>104169</brt>
+<dwt>165500</dwt>
+<nrt>32537</nrt>
+<anzahl_passagiere>0</anzahl_passagiere>
+<firstclass>0</firstclass>
+<crew>0</crew>
+<betriebskosten>4965</betriebskosten>
+<max_geschw>19.5</max_geschw>
+<kw>26500</kw>
+<treibstoffverbrauch>180</treibstoffverbrauch>
+<bunkerkap>7600</bunkerkap>
+<preis_max>56270</preis_max>
+<bugstrahl>1</bugstrahl>
+<heckstrahl>0</heckstrahl>
+<traegheit>10</traegheit>
+<korrosionsfak>0.6</korrosionsfak>
+<umschlagzeit>1</umschlagzeit>
+<sonderschiff_frachtart>liquified gas</sonderschiff_frachtart>
+<moegliche_optionen>99</moegliche_optionen>
+<bildinforeferenz>maersk_marib</bildinforeferenz>
+<sonderinfos>-</sonderinfos>
+<flagge>Marshall Islands</flagge>
+<werft>Samsung Heavy Industries Co., Ltd.</werft>
+<flags>-</flags>
+<cars>-</cars>
+<trailers>-</trailers>
+<maxshipavailable>2</maxshipavailable>
+<rentingcostperday>0</rentingcostperday>
+<stretchcostperbed>0</stretchcostperbed>
+<smallwater>0</smallwater>
+<harbourships>0</harbourships>
+<waterline>54</waterline>
+<sndfile>machine01</sndfile>
+<sndscale>1.5</sndscale>
+<sndoffset>10</sndoffset>
+<levelcmatton>0</levelcmatton>
+</ship>

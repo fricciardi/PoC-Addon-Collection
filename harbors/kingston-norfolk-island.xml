@@ -1,0 +1,32 @@
+<town>
+<index>000</index>
+<name>Kingston (Norfolk Island)</name>
+<land>Australian South Pacific Territory of Norfolk Island</land>
+<einwohner>2114</einwohner>
+<landwaehrung_name>AUD</landwaehrung_name>
+<kurs_auf_dollar_bezogen> 1.11595</kurs_auf_dollar_bezogen>
+<x>1676</x>
+<y>294</y>
+<einkommensteuer>10</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>4</HafenArbeiterStreik>
+<SchlepperStreik>2</SchlepperStreik>
+<prozwirksam>63</prozwirksam>
+<treibstoffpreis>180</treibstoffpreis>
+<bildinfostadtnummer>Norfolk_Island.png</bildinfostadtnummer>
+<fracht>Passenger,110,Fish,105</fracht>
+<klippenrisiko>4</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>4000</schlepperkosten>
+<ortswartezeit>4</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>35</zollgefahr>
+<nebel>3</nebel>
+<repda>0</repda>
+<anzfracht>5</anzfracht>
+<hafentyp>y,g,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Diego Garcia</name>
+<land>British Indian Ocean Territory</land>
+<einwohner>3500</einwohner>
+<landwaehrung_name>GBP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.60756</kurs_auf_dollar_bezogen>
+<x>0723</x>
+<y>72</y>
+<einkommensteuer>99</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>66</prozwirksam>
+<treibstoffpreis>198</treibstoffpreis>
+<bildinfostadtnummer>Diego_Garcia.png</bildinfostadtnummer>
+<fracht>Passenger,60,Arms,160</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>8800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>80</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>2</anzfracht>
+<hafentyp>-</hafentyp>
+<kontinent>Asia</kontinent>
+</town>

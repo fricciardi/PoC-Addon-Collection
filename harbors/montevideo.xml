@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Montevideo</name>
+<land>Uruguay</land>
+<einwohner>1324968</einwohner>
+<landwaehrung_name>UYU</landwaehrung_name>
+<kurs_auf_dollar_bezogen>24.350</kurs_auf_dollar_bezogen>
+<x>-561</x>
+<y>345</y>
+<einkommensteuer>68</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>3</SchlepperStreik>
+<prozwirksam>75</prozwirksam>
+<treibstoffpreis>148</treibstoffpreis>
+<bildinfostadtnummer>Montevideo.png</bildinfostadtnummer>
+<fracht>Cattle,100,Sheep,100,Passenger,80,Trailers,80,Rice,90,Frozen Meat,100,Gold,80,Wine,90,Tobacco,90,Vehicles,80,Wool,120,Fish,90</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>4800</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>20</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>5</zollgefahr>
+<nebel>0</nebel>
+<repda>85</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>South America</kontinent>
+</town>

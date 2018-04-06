@@ -1,0 +1,32 @@
+<town>
+<index>000</index>
+<name>Betio</name>
+<land>Tarawa Atoll - Gilbert Islands - Kiribati</land>
+<einwohner>10344</einwohner>
+<landwaehrung_name>AUD</landwaehrung_name>
+<kurs_auf_dollar_bezogen> 1.11595</kurs_auf_dollar_bezogen>
+<x>1727</x>
+<y>-013</y>
+<einkommensteuer>80</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>80</prozwirksam>
+<treibstoffpreis>155</treibstoffpreis>
+<bildinfostadtnummer>Betio.png</bildinfostadtnummer>
+<fracht>Passenger,70,Copra,120,Fish,100,salt,120,Furniture,80</fracht>
+<klippenrisiko>2</klippenrisiko>
+<piratenrisiko>2</piratenrisiko>
+<kollisionsrisiko>10</kollisionsrisiko>
+<seuchenrisiko>2</seuchenrisiko>
+<schlepperkosten>3800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>1</schmuggelart>
+<zollgefahr>20</zollgefahr>
+<nebel>8</nebel>
+<repda>0</repda>
+<anzfracht>20</anzfracht>
+<hafentyp>y,g,c,b,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Oakland, CA</name>
+<land>USA</land>
+<einwohner>415492</einwohner>
+<landwaehrung_name>USD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1</kurs_auf_dollar_bezogen>
+<x>-1222</x>
+<y>-375</y>
+<einkommensteuer>98</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>86</prozwirksam>
+<treibstoffpreis>133</treibstoffpreis>
+<bildinfostadtnummer>Oakland.png</bildinfostadtnummer>
+<fracht>Wood Pulp,130,Steel Coils,120,Beer,120,Frozen Meat,120,Grain,120,Agric. Products,110,Tropical Fruits,100,Animal Feed,110,Plastic Prod.,100,Cotton,110,Sugar,100,Hides & Skins,110,Passenger,90,Gasoline,90</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>12</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>3800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>5</schmuggelda>
+<schmuggelart>1</schmuggelart>
+<zollgefahr>56</zollgefahr>
+<nebel>0</nebel>
+<repda>110</repda>
+<anzfracht>38</anzfracht>
+<hafentyp>q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>North America</kontinent>
+</town>

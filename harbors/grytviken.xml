@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Grytviken</name>
+<land>South Georgia and the South Sandwich Islands</land>
+<einwohner>4</einwohner>
+<landwaehrung_name>GBP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.51069</kurs_auf_dollar_bezogen>
+<x>-365</x>
+<y>542</y>
+<einkommensteuer>35</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>0</HafenArbeiterStreik>
+<SchlepperStreik>0</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>280</treibstoffpreis>
+<bildinfostadtnummer>Grytviken.png</bildinfostadtnummer>
+<fracht>Passenger,75</fracht>
+<klippenrisiko>15</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4850</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>50</zollgefahr>
+<nebel>15</nebel>
+<repda>0</repda>
+<anzfracht>6</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>South America</kontinent>
+</town>

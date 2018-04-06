@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Dubai</name>
+<land>United Arab Emirates</land>
+<einwohner>1321452</einwohner>
+<landwaehrung_name>AED</landwaehrung_name>
+<kurs_auf_dollar_bezogen>3,6725</kurs_auf_dollar_bezogen>
+<x>552</x>
+<y>-252</y>
+<einkommensteuer>10</einkommensteuer>
+<kriegsrisiko>3</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>5</SchlepperStreik>
+<prozwirksam>85</prozwirksam>
+<treibstoffpreis>120</treibstoffpreis>
+<bildinfostadtnummer>Dubai.png</bildinfostadtnummer>
+<fracht>Crude Oil,110,Machinery,110,Fish,110,Trailers,120,Liquefied natural Gas,110,Trucks,120,MAFI,120,Passenger,120,Textiles,100,Plastic Prod.,100,Furniture,100,Vehicles,100,Electronics,100,Arms,100,Living Animals,100,Medicine,100</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>3500</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>25</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>2</zollgefahr>
+<nebel>0</nebel>
+<repda>105</repda>
+<anzfracht>30</anzfracht>
+<hafentyp>p,q,y,g,c,b,d,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

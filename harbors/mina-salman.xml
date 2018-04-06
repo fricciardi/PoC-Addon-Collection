@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Mina Salman</name>
+<land>Bahrain</land>
+<einwohner>698585</einwohner>
+<landwaehrung_name>BHD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.376</kurs_auf_dollar_bezogen>
+<x>504</x>
+<y>-261</y>
+<einkommensteuer>30</einkommensteuer>
+<kriegsrisiko>5</kriegsrisiko>
+<HafenArbeiterStreik>7</HafenArbeiterStreik>
+<SchlepperStreik>8</SchlepperStreik>
+<prozwirksam>75</prozwirksam>
+<treibstoffpreis>145</treibstoffpreis>
+<bildinfostadtnummer>Mina_Salman.png</bildinfostadtnummer>
+<fracht>Crude Oil,90,Gasoline,110,Jet (A1) Fuel,100,Marine Diesel oil (MDO),110,Marine Gasoil (MGO),110,Chemicals liquid,120,Chemicals gases,110,Chemicals standard,100,Liquefied natural gas,110,Liquefied Petroleum gases,110,Passenger,100,Fish,100,Aluminium,120</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>3700</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>25</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>5</zollgefahr>
+<nebel>0</nebel>
+<repda>90</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,b,d,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

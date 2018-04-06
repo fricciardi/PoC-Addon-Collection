@@ -1,0 +1,32 @@
+<town>
+<index>000</index>
+<name>Kings Lynn</name>
+<land>England</land>
+<einwohner>34564</einwohner>
+<landwaehrung_name>GBP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>0.60756</kurs_auf_dollar_bezogen>
+<x>5</x>
+<y>-528</y>
+<einkommensteuer>87</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>3</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>72</prozwirksam>
+<treibstoffpreis>125</treibstoffpreis>
+<bildinfostadtnummer>-</bildinfostadtnummer>
+<fracht>Lettuce,150,Grain,130,Cement,100,Fertiliser,100,Pressure Treated Wood,100,NF-metals,80,Metalware,80,Machinery,80,liquid fertilisers,100,Steel Coils,110</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>5</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>62</zollgefahr>
+<nebel>0</nebel>
+<repda>20</repda>
+<anzfracht>38</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+</town>

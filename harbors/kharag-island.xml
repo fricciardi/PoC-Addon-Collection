@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Kharag Island</name>
+<land>Iran</land>
+<einwohner>10000</einwohner>
+<landwaehrung_name>IRR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>9245.03</kurs_auf_dollar_bezogen>
+<x>503</x>
+<y>-292</y>
+<einkommensteuer>45</einkommensteuer>
+<kriegsrisiko>35</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>140</treibstoffpreis>
+<bildinfostadtnummer>Kharag_Island.png</bildinfostadtnummer>
+<fracht>Crude Oil,160</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>3</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>3000</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>1</schmuggelart>
+<zollgefahr>10</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>10</anzfracht>
+<hafentyp>b,t</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

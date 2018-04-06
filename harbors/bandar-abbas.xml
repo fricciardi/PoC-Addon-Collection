@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Bandar Abbas</name>
+<land>Iran</land>
+<einwohner>352173</einwohner>
+<landwaehrung_name>IRR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>9245.03</kurs_auf_dollar_bezogen>
+<x>562</x>
+<y>-271</y>
+<einkommensteuer>45</einkommensteuer>
+<kriegsrisiko>30</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>65</prozwirksam>
+<treibstoffpreis>140</treibstoffpreis>
+<bildinfostadtnummer>Bandar_Abbas.png</bildinfostadtnummer>
+<fracht>Fish,80,Passenger,70,Agric. Products,90,Tea,90,Tropical Fruits,60,Tobacco,70,Cars,50,Textiles,80,Iron Ore,60,Bauxite,50,Zinc,50</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>3</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>3600</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>35</schmuggelda>
+<schmuggelart>1</schmuggelart>
+<zollgefahr>10</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

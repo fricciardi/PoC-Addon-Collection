@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Haifa</name>
+<land>Israel</land>
+<einwohner>286400</einwohner>
+<landwaehrung_name>NIS</landwaehrung_name>
+<kurs_auf_dollar_bezogen>8.15003</kurs_auf_dollar_bezogen>
+<x>350</x>
+<y>-325</y>
+<einkommensteuer>66</einkommensteuer>
+<kriegsrisiko>5</kriegsrisiko>
+<HafenArbeiterStreik>2</HafenArbeiterStreik>
+<SchlepperStreik>2</SchlepperStreik>
+<prozwirksam>79</prozwirksam>
+<treibstoffpreis>145</treibstoffpreis>
+<bildinfostadtnummer>Haifa.png</bildinfostadtnummer>
+<fracht>Gasoline,90,Marine Diesel oil (MDO),90,Machinery,100,Electronics,100,Medicine,100,Sand,100,Arms,120,Tropical Fruits,120,Chemicals solids,90,Chemicals liquid,90,Chemicals standard,90,Chemicals flammable,90</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4200</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>5</schmuggelda>
+<schmuggelart>1</schmuggelart>
+<zollgefahr>60</zollgefahr>
+<nebel>1</nebel>
+<repda>-</repda>
+<anzfracht>30</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

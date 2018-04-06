@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Port Said</name>
+<land>Egypt</land>
+<einwohner>529684</einwohner>
+<landwaehrung_name>EGP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>3.39480</kurs_auf_dollar_bezogen>
+<x>323</x>
+<y>-312</y>
+<einkommensteuer>78</einkommensteuer>
+<kriegsrisiko>7</kriegsrisiko>
+<HafenArbeiterStreik>5</HafenArbeiterStreik>
+<SchlepperStreik>15</SchlepperStreik>
+<prozwirksam>65</prozwirksam>
+<treibstoffpreis>145</treibstoffpreis>
+<bildinfostadtnummer>Port_Said.png</bildinfostadtnummer>
+<fracht>Passenger,70,Rice,90,Liquefied Natural Gas,90,Chemicals liquid,70,Chemicals Standard,70,Phosphates,80,Cotton,80,Salt,90</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>3</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>3800</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>20</zollgefahr>
+<nebel>0</nebel>
+<repda>85</repda>
+<anzfracht>28</anzfracht>
+<hafentyp>p,q,y,g,c,b,d,t,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

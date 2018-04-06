@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Port Sudan</name>
+<land>Sudan</land>
+<einwohner>456200</einwohner>
+<landwaehrung_name>SDD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>243.61</kurs_auf_dollar_bezogen>
+<x>373</x>
+<y>-194</y>
+<einkommensteuer>40</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>7</HafenArbeiterStreik>
+<SchlepperStreik>4</SchlepperStreik>
+<prozwirksam>69</prozwirksam>
+<treibstoffpreis>140</treibstoffpreis>
+<bildinfostadtnummer>Port_Sudan.png</bildinfostadtnummer>
+<fracht>Cotton,110,Cement,95,Iron Ore,125,Coffee,100,Agric. Products,100,Crude Oil,100</fracht>
+<klippenrisiko>1</klippenrisiko>
+<piratenrisiko>5</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>3</seuchenrisiko>
+<schlepperkosten>2900</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>2</schmuggelart>
+<zollgefahr>40</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>26</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Port Klang</name>
+<land>Malaysia</land>
+<einwohner>828202</einwohner>
+<landwaehrung_name>MYR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>3.42475</kurs_auf_dollar_bezogen>
+<x>1013</x>
+<y>-30</y>
+<einkommensteuer>80</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>80</prozwirksam>
+<treibstoffpreis>155</treibstoffpreis>
+<bildinfostadtnummer>Port_Klang.png</bildinfostadtnummer>
+<fracht>Passenger,90,Electronics,125,Palm Oil,100,Plastic Prod.,100,Vegetable Oil,100,Rubber,120,Copra,100,Chemicals solids,90,Marine Diesel Oil (MDO),90,Gasoline,90,Trucks,80,Trailers,80,MAFI,80</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>2</piratenrisiko>
+<kollisionsrisiko>10</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>3800</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>10</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>50</zollgefahr>
+<nebel>8</nebel>
+<repda>0</repda>
+<anzfracht>30</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Asia</kontinent>
+</town>

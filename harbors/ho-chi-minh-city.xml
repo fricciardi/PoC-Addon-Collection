@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Ho Chi Minh City</name>
+<land>Vietnam</land>
+<einwohner>5140412</einwohner>
+<landwaehrung_name>VND</landwaehrung_name>
+<kurs_auf_dollar_bezogen>16.050</kurs_auf_dollar_bezogen>
+<x>1064</x>
+<y>-105</y>
+<einkommensteuer>65</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>15</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>70</prozwirksam>
+<treibstoffpreis>175</treibstoffpreis>
+<bildinfostadtnummer>Ho_Chi_Minh.png</bildinfostadtnummer>
+<fracht>Passenger,70,Coffee,130,Rice,130,Rubber,80,Tea,80,Textiles,100,Fish,80,Spice,80,Plastic Prod.,100,Cement,90,Machinery,80,Chemicals Standard,80,Paper,80</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>3</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>12</seuchenrisiko>
+<schlepperkosten>3500</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>20</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>20</zollgefahr>
+<nebel>0</nebel>
+<repda>65</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,b,d,t,a</hafentyp>
+<kontinent>Asia</kontinent>
+</town>

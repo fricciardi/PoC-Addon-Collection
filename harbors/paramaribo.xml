@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Paramaribo</name>
+<land>Suriname</land>
+<einwohner>222452</einwohner>
+<landwaehrung_name>SRD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>2.78</kurs_auf_dollar_bezogen>
+<x>-551</x>
+<y>-58</y>
+<einkommensteuer>40</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>10</HafenArbeiterStreik>
+<SchlepperStreik>10</SchlepperStreik>
+<prozwirksam>55</prozwirksam>
+<treibstoffpreis>180</treibstoffpreis>
+<bildinfostadtnummer>Paramaribo.png</bildinfostadtnummer>
+<fracht>Bauxite,110,Aluminium,110,Sugar,80,Rice,100,Cacao,80,Rum,80,Cement,70,Shrimps,90,Bananas,90,Tropical Fruits,80,Crude Oil,80,Fish,90</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>10</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4900</schlepperkosten>
+<ortswartezeit>2</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>50</zollgefahr>
+<nebel>10</nebel>
+<repda>75</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,d,t,a</hafentyp>
+<kontinent>South America</kontinent>
+</town>

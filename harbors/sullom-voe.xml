@@ -1,0 +1,32 @@
+<town>
+<index>000</index>
+<name>Sullom Voe</name>
+<land>Shetland</land>
+<einwohner>45000</einwohner>
+<landwaehrung_name>GBP</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1.02</kurs_auf_dollar_bezogen>
+<x>-13</x>
+<y>-604</y>
+<einkommensteuer>10</einkommensteuer>
+<kriegsrisiko>5</kriegsrisiko>
+<HafenArbeiterStreik>7</HafenArbeiterStreik>
+<SchlepperStreik>8</SchlepperStreik>
+<prozwirksam>63</prozwirksam>
+<treibstoffpreis>140</treibstoffpreis>
+<bildinfostadtnummer>ras_laffan.png</bildinfostadtnummer>
+<fracht>Crude Oil,160,Liquefied natural gas,100,Liquefied Petroleum gases,100</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>3600</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>25</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>5</zollgefahr>
+<nebel>0</nebel>
+<repda>-</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,b,t,a</hafentyp>
+<kontinent>Europe</kontinent>
+</town>

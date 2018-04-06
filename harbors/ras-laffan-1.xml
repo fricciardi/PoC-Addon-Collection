@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Ras Laffan</name>
+<land>Qatar</land>
+<einwohner>839.213</einwohner>
+<landwaehrung_name>QAR</landwaehrung_name>
+<kurs_auf_dollar_bezogen>3.64</kurs_auf_dollar_bezogen>
+<x>514</x>
+<y>-258</y>
+<einkommensteuer>10</einkommensteuer>
+<kriegsrisiko>5</kriegsrisiko>
+<HafenArbeiterStreik>7</HafenArbeiterStreik>
+<SchlepperStreik>8</SchlepperStreik>
+<prozwirksam>73</prozwirksam>
+<treibstoffpreis>140</treibstoffpreis>
+<bildinfostadtnummer>Ras_Laffan.png</bildinfostadtnummer>
+<fracht>Crude Oil,100,Chemicals liquid,120,Chemicals gases,110,Chemicals standard,100,Liquefied natural gas,140,Steel Coils,100,Fertiliser,100,Petroleum Coke,100,Metalware,90</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>3600</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>25</schmuggelda>
+<schmuggelart>3</schmuggelart>
+<zollgefahr>5</zollgefahr>
+<nebel>0</nebel>
+<repda>-</repda>
+<anzfracht>28</anzfracht>
+<hafentyp>p,q,y,g,c,b,t,a</hafentyp>
+<kontinent>Middle East</kontinent>
+</town>

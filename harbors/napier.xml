@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Napier</name>
+<land>New Zealand</land>
+<einwohner>52000</einwohner>
+<landwaehrung_name>NZD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>2.164</kurs_auf_dollar_bezogen>
+<x>1772</x>
+<y>393</y>
+<einkommensteuer>50</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>1</SchlepperStreik>
+<prozwirksam>80</prozwirksam>
+<treibstoffpreis>201</treibstoffpreis>
+<bildinfostadtnummer>Napier.png</bildinfostadtnummer>
+<fracht>Passenger,70,Tropical Fruits,90,Wood,100,Woodchips,100,Frozen Meat,100,Wool,100,Cattle,120,Sheep,120</fracht>
+<klippenrisiko>1</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>0</kollisionsrisiko>
+<seuchenrisiko>1</seuchenrisiko>
+<schlepperkosten>3311</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>32</zollgefahr>
+<nebel>0</nebel>
+<repda>0</repda>
+<anzfracht>15</anzfracht>
+<hafentyp>p,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Australia</kontinent>
+</town>

@@ -1,0 +1,20 @@
+<good>
+<index>-1</index>
+<warenname>Palm Oil</warenname>
+<startjahr>1920</startjahr>
+<frachtcode>0</frachtcode>
+<ertragprotag>35</ertragprotag>
+<auftrittwahrscheinlichkeit>90</auftrittwahrscheinlichkeit>
+<teutyp>600</teutyp>
+<tonperteu>14</tonperteu>
+<terminwahrscheinlichkeit>0</terminwahrscheinlichkeit>
+<korrisionsfaktor>0</korrisionsfaktor>
+<bildname>palm_oil</bildname>
+<containertype>0</containertype>
+<brennbar>0</brennbar>
+<explosiv>0</explosiv>
+<radioaktiv>0</radioaktiv>
+<infektioes>0</infektioes>
+<handelkrit>0</handelkrit>
+<allgemeine_beschreibung>-</allgemeine_beschreibung>
+</good>

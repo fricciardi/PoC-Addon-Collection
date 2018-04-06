@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Abidjan</name>
+<land>Côte d'Ivoire</land>
+<einwohner>3692570</einwohner>
+<landwaehrung_name>XOF</landwaehrung_name>
+<kurs_auf_dollar_bezogen>497.314</kurs_auf_dollar_bezogen>
+<x>-40</x>
+<y>-52</y>
+<einkommensteuer>30</einkommensteuer>
+<kriegsrisiko>12</kriegsrisiko>
+<HafenArbeiterStreik>20</HafenArbeiterStreik>
+<SchlepperStreik>20</SchlepperStreik>
+<prozwirksam>72</prozwirksam>
+<treibstoffpreis>165</treibstoffpreis>
+<bildinfostadtnummer>Abidjan.png</bildinfostadtnummer>
+<fracht>Tropical Fruits,100,Bananas,80,Coffee,100,Wood,120,Cacao,120,Cotton,100,Chemicals Standard,70,Passenger,60,Vehicles,70,Palm Oil,80,Crude Oil,80</fracht>
+<klippenrisiko>0</klippenrisiko>
+<piratenrisiko>5</piratenrisiko>
+<kollisionsrisiko>5</kollisionsrisiko>
+<seuchenrisiko>5</seuchenrisiko>
+<schlepperkosten>2700</schlepperkosten>
+<ortswartezeit>1</ortswartezeit>
+<schmuggelda>15</schmuggelda>
+<schmuggelart>1</schmuggelart>
+<zollgefahr>20</zollgefahr>
+<nebel>0</nebel>
+<repda>85</repda>
+<anzfracht>25</anzfracht>
+<hafentyp>p,q,y,g,c,r,b,t,a</hafentyp>
+<kontinent>Africa</kontinent>
+</town>

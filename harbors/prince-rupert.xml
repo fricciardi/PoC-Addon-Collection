@@ -1,0 +1,32 @@
+<town>
+<index>0</index>
+<name>Prince Rupert</name>
+<land>Canada</land>
+<einwohner>18520</einwohner>
+<landwaehrung_name>CAD</landwaehrung_name>
+<kurs_auf_dollar_bezogen>1.46813</kurs_auf_dollar_bezogen>
+<x>-1301</x>
+<y>-541</y>
+<einkommensteuer>40</einkommensteuer>
+<kriegsrisiko>0</kriegsrisiko>
+<HafenArbeiterStreik>1</HafenArbeiterStreik>
+<SchlepperStreik>0</SchlepperStreik>
+<prozwirksam>78</prozwirksam>
+<treibstoffpreis>200</treibstoffpreis>
+<bildinfostadtnummer>Prince_Rupert.png</bildinfostadtnummer>
+<fracht>Grain,120,Wood,105,Coal,110,Petroleum coke,100, Passenger,60</fracht>
+<klippenrisiko>4</klippenrisiko>
+<piratenrisiko>0</piratenrisiko>
+<kollisionsrisiko>1</kollisionsrisiko>
+<seuchenrisiko>0</seuchenrisiko>
+<schlepperkosten>4500</schlepperkosten>
+<ortswartezeit>0</ortswartezeit>
+<schmuggelda>0</schmuggelda>
+<schmuggelart>0</schmuggelart>
+<zollgefahr>25</zollgefahr>
+<nebel>7</nebel>
+<repda>0</repda>
+<anzfracht>27</anzfracht>
+<hafentyp>y,g,c,b,t,a</hafentyp>
+<kontinent>North America</kontinent>
+</town>
